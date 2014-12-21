@@ -1,0 +1,18 @@
+html {
+    padding: 0px;
+}
+
+body {
+    background: black;
+    text-align: center;
+    padding: 0px;
+}
+
+#renderTarget {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
